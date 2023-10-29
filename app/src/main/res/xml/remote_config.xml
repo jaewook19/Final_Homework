@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android">
+    <entry>
+        <key>season</key>
+        <value>spring</value>
+    </entry>
+    <entry>
+        <key>season</key>
+        <value>summer</value>
+    </entry>
+    <entry>
+        <key>season</key>
+        <value>fall</value>
+    </entry>
+    <entry>
+        <key>season</key>
+        <value>winter</value>
+    </entry>
+</defaultsMap>
